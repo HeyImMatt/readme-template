@@ -70,3 +70,4 @@ If you want to contact me you can reach me at <mrmcfarland@gmail.com>
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
 
 This project uses the following license: [MIT](https://opensource.org/licenses/MIT)
+Copyright 2020
