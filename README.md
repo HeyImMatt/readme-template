@@ -11,6 +11,9 @@ Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>
 
 Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.
 
+## Technologies Used
+List out tech stack
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -60,9 +63,9 @@ Thanks to the following people who have contributed to this project:
 
 * [@heyimmatt](https://github.com/heyimmatt)
 
-You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
+<!--- You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key). --->
 
-## Contact
+## Support and Contact
 
 If you want to contact me you can reach me at <mrmcfarland@gmail.com>
 
@@ -70,4 +73,5 @@ If you want to contact me you can reach me at <mrmcfarland@gmail.com>
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
 
 This project uses the following license: [MIT](https://opensource.org/licenses/MIT)
-Copyright 2020
+
+Copyright (c) 2020 Matt McFarland
